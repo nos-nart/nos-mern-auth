@@ -1,0 +1,11 @@
+{
+  "name": "nos-mern-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nos-nart/nos-mern-auth.git",
+  "author": "nos-nart <nosnart1510@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
